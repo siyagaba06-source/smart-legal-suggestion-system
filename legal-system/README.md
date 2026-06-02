@@ -1,0 +1,2 @@
+# Legal-Suggestion-System-project
+A full-stack legal assistance platform built with React.js, Express, and MySQL. The system allows clients and lawyers to register, log in, manage cases, and interact through a structured dashboard. It ensures secure authentication, efficient data handling, and  a user-friendly interface for legal suggestion service.
